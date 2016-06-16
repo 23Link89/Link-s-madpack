@@ -3,7 +3,7 @@ Bug reporting:
 
 When you make a bug report make sure that you are:
 
-1. Using the latest version
+1. Using the latest version of the pack
 
 2. Using the latest version of java
 
