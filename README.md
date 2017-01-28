@@ -9,4 +9,4 @@ When you make a bug report make sure that you are:
 
 3. Not changing the pack in any way
 
-4. Leaving a link to a pastebin of the crash
+4. Leaving a link to a pastebin of the crash or pasting crash in if it isn't really long
